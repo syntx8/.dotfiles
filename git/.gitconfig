@@ -1,0 +1,7 @@
+[user]
+	email = jorge.marin.dev@gmail.com
+	name = Jorge Marin
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
