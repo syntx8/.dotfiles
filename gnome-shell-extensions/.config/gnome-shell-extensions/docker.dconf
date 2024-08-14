@@ -1,0 +1,7 @@
+[/]
+menu-type='text'
+quicksettings-columns=3
+show-information=false
+show-ports=true
+terminal='gnome-terminal -- bash -c'
+up-containers-timer=5

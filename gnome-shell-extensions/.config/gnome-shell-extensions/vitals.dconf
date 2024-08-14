@@ -1,0 +1,2 @@
+[/]
+hot-sensors=['_memory_usage_', '_processor_usage_', '__temperature_avg__']

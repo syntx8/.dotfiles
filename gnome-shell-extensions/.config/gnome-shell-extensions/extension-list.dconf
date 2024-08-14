@@ -1,0 +1,6 @@
+[/]
+button-icon=uint32 0
+hide-disabled=true
+hide-inactive=false
+toggle-unpin=false
+unpin-list=['background-logo@fedorahosted.org', 'window-list@gnome-shell-extensions.gcampax.github.com', 'launch-new-instance@gnome-shell-extensions.gcampax.github.com']
