@@ -1,0 +1,5 @@
+[/]
+icons-blacklist=['DashBar appgrid-button', 'activities']
+order-icons-center=['dateMenu']
+order-icons-left=['activities', 'LogoMenu', 'places-menu', 'DashBar taskbar', 'DashBar appgrid-button']
+order-icons-right=['Discord ', 'vitalsMenu', 'docker@stickman_0x00.com', 'extension-list@tu.berry', 'Clipboard History Indicator', 'tiling-assistant@leleat-on-github', 'quickSettings', 'keyboard', 'a11y', 'dwellClick', 'screenSharing', 'screenRecording']
