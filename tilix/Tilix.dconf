@@ -9,7 +9,7 @@ session-name='${directory}'
 sidebar-on-right=true
 terminal-title-style='none'
 theme-variant='dark'
-window-style='disable-csd-hide-toolbar'
+window-style='borderless'
 
 [keybindings]
 session-resize-terminal-down='<Alt>KP_2'
@@ -27,9 +27,9 @@ background-transparency-percent=5
 badge-color-set=false
 bold-color-set=false
 cursor-colors-set=false
-default-size-columns=178
-default-size-rows=44
-font='MesloLGS NF 11'
+default-size-columns=180
+default-size-rows=47
+font='MesloLGS Nerd Font Mono 11'
 foreground-color='#A7A7A7'
 highlight-colors-set=false
 login-shell=true
